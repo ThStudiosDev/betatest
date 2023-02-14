@@ -25,13 +25,13 @@ body {
         background-image: url("../images/background/fondo1.jpg");
     }
     25% {
-        background-image: url("../images/background/fondo2.jpg");
+        background-image: url("../images/background/fondo1.jpg");
     }
     50% {
-        background-image: url("../images/background/fondo3.jpg");
+        background-image: url("../images/background/fondo1.jpg");
     }
     75% {
-        background-image: url("../images/background/fondo4.jpg");
+        background-image: url("../images/background/fondo1.jpg");
     }
   }
 

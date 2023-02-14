@@ -1,11 +1,11 @@
 {
-    "name": "Th_Launcher",
-    "preductname": "Th's Launcher",
-    "version": "4.2.0",
-    "description": "Launcher Mincraft hecho por ElFo2K",
+    "name": "Th_Betatest",
+    "preductname": "Th's Launcher Beta",
+    "version": "1.0.0",
+    "description": "Launcher hecho para las pruebas de Th's Studios",
     "main": "src/app.js",
     "author": "ElFo2K",
-    "url":"http://45.86.66.85:25100/launchers/Publico/",
+    "url":"http://45.86.66.85:25100/launchers/Betatest/",
     "engines": {
         "node": "16.x.x"
     },
@@ -34,6 +34,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ThStudiosDev/launcher.git"
+        "url": "git+https://github.com/ThStudiosDev/betatest.git"
     }
 }

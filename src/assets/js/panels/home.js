@@ -90,7 +90,7 @@ class Home {
     }
     async dynmapbtn() {
         document.querySelector('.dynmap').addEventListener('click', async() => {
-            require('electron').shell.openExternal("https://discord.gg/gaMPUXm4Mj")
+            require('electron').shell.openExternal("https://sites.google.com/view/thstudytt/inicio")
         })}
     
     async discordbtn() {

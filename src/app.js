@@ -12,11 +12,11 @@
  async function setActivity() {
     if (!RPC) return;
     RPC.setActivity({
-        details: `Launcher: Asterio`,
-        state: `Jugador Normal`,
+        details: `Launcher: Betatest`,
+        state: `Jugador BETA`,
         startTimestamp: Date.now(),
-        largeImageKey: 'squidmc',
-        largeImageText: `v4.2-Latest`,
+        largeImageKey: 'beta',
+        largeImageText: `v1.0-Latest`,
         instance: false,
         buttons: [
             {

@@ -5,7 +5,7 @@ const { preductname } = require('./package.json')
 let configBuild = {
     appId: preductname,
     productName: preductname,
-    artifactName: "Th's Launcher-${os}-${arch}.${ext}",
+    artifactName: "Th's Launcher Beta-${os}-${arch}.${ext}",
     files: ["src/**/*", "package.json", "LICENSE.md"],
     directories: { "output": "dist" },
     compression: 'maximum',
